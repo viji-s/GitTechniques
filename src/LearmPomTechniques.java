@@ -1,8 +1,11 @@
 
 public class LearmPomTechniques {
 
-	private void psvm() {
-		// TODO Auto-generated method stub
+	public static void psvm() {
+		public static void main(String[] args){
+			int a=30;
+			int b=60;
+		}
 
 	}
 }
