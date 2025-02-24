@@ -11,6 +11,7 @@ public class LearmPomTechniques {
 				}
 			else {
 				System.out.println("C is greatest");
+				System.out.println("C is greatest");
 			}
 		}
 }
